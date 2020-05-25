@@ -10,3 +10,4 @@ RUN rm -rf /usr/share/nginx/html/*
 ADD dist/service-bank-app/ /usr/share/nginx/html
 
 CMD ["nginx", "-g", "daemon off;"]
+#Jhon Jairo Narvaez
