@@ -1,4 +1,4 @@
-export const HOST_BACKEND = `http://localhost:8080`
+export const HOST_BACKEND = `https://sdj8b7sy6l.execute-api.us-east-1.amazonaws.com/dev`
 //export const HOST_BACKEND = `http://192.168.99.100`
 //export const HOST_BACKEND = `https://a5q8gn7rkb.execute-api.us-east-1.amazonaws.com/prod`
 
